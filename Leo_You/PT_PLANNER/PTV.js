@@ -43,7 +43,6 @@ function transferLine(lineStopNo1,lineStopNo2){
     //Ricmond to lineStopNo2.
     var journeyTwo;
     var journeyTwoStops;
-
             switch (lineStopNo1[0]){
             case 0 :
             // the index of Ricmond in Alamein line is 1.
